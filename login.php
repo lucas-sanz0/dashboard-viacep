@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+AAAAAAAA
 $stored_hash = file_get_contents('usuarios.dat'); // Lê o arquivo de usuários
 $users = unserialize($stored_hash); // Desserealiza os dados
 
