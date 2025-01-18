@@ -32,7 +32,7 @@ input {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #580873E6;
+    background-color: #580873E6; /*Cor do botão */
     color: white;
     border: none;
     border-radius: 4px;
